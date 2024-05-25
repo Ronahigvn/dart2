@@ -1,0 +1,43 @@
+double alan (double uzunKenar,double kisaKenar)
+{
+    return uzunKenar*kisaKenar;
+}
+
+int carp(int a,int b)
+{
+   
+
+   
+   int multiplyByTwo(int x)
+    {
+        return x*2;
+    }
+    while(a+1==b)
+    {
+ return a*2^(b-1);
+    }
+
+
+}
+List <String> silme(List<String> liste,String eleman)
+{
+    liste.remove(eleman);
+    return liste;
+}
+class sekil
+{
+ String daire;
+ String ucgen;
+ String kare;
+ String dikdortgen;
+ String besgen;
+}
+void main
+{
+    print(alan(9.54,4.76));
+    print(carp(4,3));
+    List <String> liste1=['kedi','kopek'];
+    print(silme(liste1,'kedi'));
+
+
+}
